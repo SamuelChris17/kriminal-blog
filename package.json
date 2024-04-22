@@ -1,0 +1,32 @@
+{
+  "name": "kriminal-blog",
+  "version": "1.0.0",
+  "description": "My very first blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SamuelChris17"
+  },
+  "keywords": [
+    "none",
+    "for",
+    "now"
+  ],
+  "author": "Samuel Chris war_kriminal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.2",
+    "winston": "^3.13.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
